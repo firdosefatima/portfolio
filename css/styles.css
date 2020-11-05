@@ -479,6 +479,11 @@ textarea{
   .hero-text{
     margin: 0 0 0 7%;
   }
+    .mypic{
+    height: 40vh;
+    margin: 0 0 0 20%;
+    transform: scaleX(-1);
+  }
 
 }
 
